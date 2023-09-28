@@ -1,0 +1,54 @@
+body{background-color: rgb(189, 223, 223);}
+header{background-color:aqua;
+    padding-right: 100px;
+    padding-left: 30px;
+}
+#id1{
+    display: inline;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(15, 15, 77);
+}
+#id2{display: inline;
+    float: right;
+    font-size: 3ch;
+    font-size: 3ch;
+     
+}
+a:hover{color: red;}
+#main1{background-color: aqua;
+    width: 80%;  
+    height: 100%;
+    padding-left: 300px;
+    font-size: 300%;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(102, 96, 96);
+}
+#m2{display:block;
+   background-color: rgb(149, 173, 173); 
+   margin-left: 5%;
+   margin-right: 5%;
+   border: 0.2ch solid rgb(59, 204, 148);
+   border-radius: 2cap;
+   padding: .5%;
+}
+#h21{font-family: 'Courier New', Courier, monospace;
+     
+}
+
+form{ font-family: monospace;
+}
+#b1{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgba(11, 58, 58, 0.89);
+}
+#h22{color:rgb(15, 15, 77);}
+#nav2{background-image: url(sbj1.png); background: size 800px;;
+background-repeat: no-repeat;
+background-position: right;
+padding-left:0px;
+}
+#footer{background-color:aqua;
+color: rgb(43, 29, 13);
+font-family: initial;
+font-size: 150%;
+text-align: center;}
